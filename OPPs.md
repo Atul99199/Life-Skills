@@ -58,7 +58,7 @@ Hierarchical inheritance is defined as the process of deriving more than one cla
 Multilevel inheritance is a process of deriving a class from another derived class.
 
 ### e. Hybrid inheritance :
-Hybrid inheritance is a combination of simple, multiple inheritance and hierarchical inheritance.
+Hybrid inheritance is a combination of simple, multiple inheritance, and hierarchical inheritance.
 
 ## 2. Encapsulation:
 Encapsulation means combining data and the functions that operate on that data into a single unit, typically a class. Access to internal data is restricted using access specifiers (private, protected, public). It helps achieve data hiding, which minimizes unintended interference.
@@ -77,7 +77,7 @@ Polymorphism is an object-oriented programming (OOP) concept that allows objects
 ### a. Compile Time Polymorphism :
 Function overloading allows multiple methods with the same name but different parameter lists within the same class.
 
-* Method Overloading: 
+#### Method Overloading: 
 Method overloading is a technique that allows you to have more than one function with the same function name but with different functionality. 
 
 ### Example:
