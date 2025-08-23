@@ -25,8 +25,10 @@ public:
 An object is an instance of a class. When a class is instantiated, it becomes an object that has its own copy of the class's attributes and can call its methods.
 
 ### Example:-
+```
 C++ Syntax (for object):
 student s = new student();
+```
 
 The four pillars of Object-Oriented Programming (OOP) are Abstraction, Encapsulation, Inheritance, and Polymorphism.
 
@@ -34,10 +36,12 @@ The four pillars of Object-Oriented Programming (OOP) are Abstraction, Encapsula
 Inheritance allows one class (the child or derived class) to inherit members (attributes and methods) from another class (the parent or base class). This promotes reusability and extends functionality.
 
 ### Example:
+```
 C++ Syntax :
 class derived_class :: visibility-mode base_class;
 
 visibility-modes = {private, protected, public}
+```
 
 ## Types of Inheritance:
 
@@ -66,7 +70,7 @@ Abstraction focuses on exposing only the essential features of a system while hi
 Data binding is a process of binding the application UI and business logic. Any change made in the business logic will reflect directly to the application UI.
 
 ## 4. Polymorphism:
-Polymorphism is an object-oriented programming (OOP) concept that allows objects of different classes to be treated as objects of a common superclass. The term "polymorphism" comes from Greek words meaning "many forms". 
+Polymorphism is an object-oriented programming (OOP) concept that allows objects of different classes to be treated as objects of a common superclass. The term "polymorphism" originates from Greek words meaning "many forms." 
 
 ## Types of Polymorphism :
 
@@ -74,9 +78,10 @@ Polymorphism is an object-oriented programming (OOP) concept that allows objects
 Function overloading allows multiple methods with the same name but different parameter lists within the same class.
 
 * Method Overloading: 
-Method overloading is a technique which allows you to have more than one function with the same function name but with different functionality. 
+Method overloading is a technique that allows you to have more than one function with the same function name but with different functionality. 
 
 ### Example:
+```
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -102,13 +107,13 @@ int main() {
     return 0;
 }
 
-
+```
 
 * Runtime Polymorphism:
-Runtime polymorphism is also known as dynamic polymorphism. Function overriding is an example of runtime polymorphism. Function overriding means when the child class contains the method which is already present in the parent class. Hence, the child class overrides the method of the parent class.
+Runtime polymorphism, also known as dynamic polymorphism, is a type of polymorphism. Function overriding is an example of runtime polymorphism. Function overriding means that when the child class contains a method that is already present in the parent class. Hence, the child class overrides the process of the parent class.
 
 ### Example:
-
+```
 #include <iostream>
 using namespace std;
 
@@ -121,7 +126,7 @@ public:
 };
 
 // Derived class
-class Derived : public Base {
+class Derived: public Base {
 public:
     void show() override {
         cout << "Apni Kaksha derived" << endl;
@@ -137,6 +142,7 @@ int main() {
 
     return 0;
 }
+```
 
 ## Conclusion:
 Object-Oriented Programming (OOPs) is an effective programming approach that enhances code structure, encourages reuse, and simplifies maintenance. By understanding and applying its core concepts—Encapsulation, Abstraction, Inheritance, and Polymorphism—developers can create scalable and maintainable software systems with greater efficiency.
