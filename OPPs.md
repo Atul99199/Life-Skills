@@ -8,7 +8,7 @@ Object-Oriented Programming (OOP) is a paradigm centered around the idea of orga
 A class is a custom data structure defined by the user that contains data members (attributes) and member functions (methods). It is a template for creating objects. A class on its own doesn’t use memory until an object is created from it.
 
 ### Example:-
-
+```
 class student {
 public:
     int id;         // data member
@@ -19,6 +19,7 @@ public:
         return x + y;
     }
 };
+```
 
 ## Object:
 An object is an instance of a class. When a class is instantiated, it becomes an object that has its own copy of the class's attributes and can call its methods.
