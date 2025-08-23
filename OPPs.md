@@ -46,7 +46,7 @@ visibility-modes = {private, protected, public}
 ## Types of Inheritance:
 
 ### a. Single inheritance : 
-When one class inherits another class, it is known as single level inheritance.
+When one class inherits another class, it is known as single-level inheritance.
 
 ### b. Multiple inheritance :
  Multiple inheritance is the process of deriving a new class that inherits the attributes from two or more classes.
@@ -61,10 +61,10 @@ Multilevel inheritance is a process of deriving a class from another derived cla
 Hybrid inheritance is a combination of simple, multiple inheritance, and hierarchical inheritance.
 
 ## 2. Encapsulation:
-Encapsulation means combining data and the functions that operate on that data into a single unit, typically a class. Access to internal data is restricted using access specifiers (private, protected, public). It helps achieve data hiding, which minimizes unintended interference.
+Encapsulation means combining data and the functions that operate on that data into a single unit, typically a class. Access to internal data is restricted using access specifiers (private, protected, public). It helps achieve data hiding, which minimizes unintended interference. Thus, encapsulation makes the concept of data hiding possible. (Data hiding: a language feature to restrict access to members of an object, reducing the negative effect due to dependencies. e.g., "protected", "private" feature in C++).
 
 ## 3. Abstraction:
-Abstraction focuses on exposing only the essential features of a system while hiding the complex implementation details. It helps to reduce code complexity and increase maintainability.
+Abstraction focuses on exposing only the essential features of a system while hiding the complex implementation details. It helps to reduce code complexity and increase maintainability. The model abstracted from problems can be a standard solution to this type of problem. It is an efficient way since there are nebulous real-life problems that have similar properties.
 
 ### Data binding : 
 Data binding is a process of binding the application UI and business logic. Any change made in the business logic will reflect directly to the application UI.
