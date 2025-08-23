@@ -109,7 +109,7 @@ int main() {
 
 ```
 
-* Runtime Polymorphism:
+### b. Runtime Polymorphism:
 Runtime polymorphism, also known as dynamic polymorphism, is a type of polymorphism. Function overriding is an example of runtime polymorphism. Function overriding means that when the child class contains a method that is already present in the parent class. Hence, the child class overrides the process of the parent class.
 
 ### Example:
