@@ -151,7 +151,7 @@ Object-Oriented Programming (OOPs) is an effective programming approach that enh
 
 Introduction of OOPs - https://www.w3schools.com/cpp/cpp_oop.asp
 
-class and object - https://www.w3schools.com/cpp/cpp_classes.asp
+Class and Object - https://www.w3schools.com/cpp/cpp_classes.asp
 
 Four Main OOPs Concepts of Java - https://www.geeksforgeeks.org/java/four-main-object-oriented-programming-concepts-of-java/
 
