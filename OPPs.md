@@ -32,7 +32,7 @@ student s = new student();
 
 The four pillars of Object-Oriented Programming (OOP) are Abstraction, Encapsulation, Inheritance, and Polymorphism.
 
-## 1. Inheritance:
+## 1. &nbsp;Inheritance:
 Inheritance allows one class (the child or derived class) to inherit members (attributes and methods) from another class (the parent or base class). This promotes reusability and extends functionality.
 
 ### Example:
@@ -45,39 +45,39 @@ visibility-modes = {private, protected, public}
 
 ## Types of Inheritance:
 
-### a. Single inheritance : 
+### a. &nbsp;Single inheritance : 
 When one class inherits another class, it is known as single-level inheritance.
 
-### b. Multiple inheritance :
+### b.&nbsp; Multiple inheritance :
  Multiple inheritance is the process of deriving a new class that inherits the attributes from two or more classes.
 
-### c. Hierarchical inheritance : 
+### c.&nbsp; Hierarchical inheritance : 
 Hierarchical inheritance is defined as the process of deriving more than one class from a base class.
 
-### d. Multilevel inheritance : 
+### d.&nbsp; Multilevel inheritance : 
 Multilevel inheritance is a process of deriving a class from another derived class.
 
-### e. Hybrid inheritance :
+### e.&nbsp; Hybrid inheritance :
 Hybrid inheritance is a combination of simple, multiple inheritance, and hierarchical inheritance.
 
-## 2. Encapsulation:
+## 2. &nbsp;Encapsulation:
 Encapsulation means combining data and the functions that operate on that data into a single unit, typically a class. Access to internal data is restricted using access specifiers (private, protected, public). It helps achieve data hiding, which minimizes unintended interference. Thus, encapsulation makes the concept of data hiding possible. (Data hiding: a language feature to restrict access to members of an object, reducing the negative effect due to dependencies. e.g., "protected", "private" feature in C++).
 
-## 3. Abstraction:
+## 3. &nbsp; Abstraction:
 Abstraction focuses on exposing only the essential features of a system while hiding the complex implementation details. It helps to reduce code complexity and increase maintainability. The model abstracted from problems can be a standard solution to this type of problem. It is an efficient way since there are nebulous real-life problems that have similar properties.
 
-### Data binding : 
+### •&nbsp; Data binding : 
 Data binding is a process of binding the application UI and business logic. Any change made in the business logic will reflect directly to the application UI.
 
-## 4. Polymorphism:
+## 4. &nbsp;Polymorphism:
 Polymorphism is an object-oriented programming (OOP) concept that allows objects of different classes to be treated as objects of a common superclass. The term "polymorphism" originates from Greek words meaning "many forms." 
 
 ## Types of Polymorphism :
 
-### a. Compile Time Polymorphism :
+### a. &nbsp;Compile Time Polymorphism :
 Function overloading allows multiple methods with the same name but different parameter lists within the same class.
 
-#### Method Overloading: 
+### • &nbsp;Method Overloading: 
 Method overloading is a technique that allows you to have more than one function with the same function name but with different functionality. 
 
 ### Example:
@@ -109,7 +109,7 @@ int main() {
 
 ```
 
-### b. Runtime Polymorphism:
+### b. &nbsp; Runtime Polymorphism:
 Runtime polymorphism, also known as dynamic polymorphism, is a type of polymorphism. Function overriding is an example of runtime polymorphism. Function overriding means that when the child class contains a method that is already present in the parent class. Hence, the child class overrides the process of the parent class.
 
 ### Example:
@@ -146,5 +146,14 @@ int main() {
 
 ## Conclusion:
 Object-Oriented Programming (OOPs) is an effective programming approach that enhances code structure, encourages reuse, and simplifies maintenance. By understanding and applying its core concepts—Encapsulation, Abstraction, Inheritance, and Polymorphism—developers can create scalable and maintainable software systems with greater efficiency.
+
+## Reference:
+
+Introduction of OOPs - https://www.w3schools.com/cpp/cpp_oop.asp
+
+class and object - https://www.w3schools.com/cpp/cpp_classes.asp
+
+Four Main OOPs Concepts of Java - https://www.geeksforgeeks.org/java/four-main-object-oriented-programming-concepts-of-java/
+
 
 
