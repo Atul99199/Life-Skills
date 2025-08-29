@@ -8,7 +8,7 @@ Angela Duckworth says being successful is not just about being smart or talented
 
 The video shows that people who believe they can improve with practice and effort usually grow and succeed more. A growth mindset helps in learning and progress.
 
-##Question 3: What is the Internal Locus of Control? What is the key point in the video?
+## Question 3: What is the Internal Locus of Control? What is the key point in the video?
 ### Internal Locus of Control:
 Internal locus of control means thinking that what happens in your life mostly depends on your own actions and effort. People with this view take responsibility for results and believe they can improve by working hard and making good choices.
 
@@ -57,4 +57,14 @@ Internal locus of control means thinking that what happens in your life mostly d
 •Practice consistently.
 
 •Remember: Struggles help you improve.
+
+## reference: 
+Grit - https://www.youtube.com/watch?v=H14bBuluwB8
+
+Growth Mindset - https://www.youtube.com/watch?v=75GFzikmRY0
+
+Internal Locus of Control - https://www.youtube.com/watch?v=8ZhoeSaPF-k
+
+Growth Mindset - ttps://www.youtube.com/watch?v=9DVdclX6NzY
+
 
